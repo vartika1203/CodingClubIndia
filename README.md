@@ -6,6 +6,15 @@ This repository is to Kickstart Open Source and promote Hacktoberfest2019.
 Pl. add your names beneath this line.
  
  ---------------------------------------------------------------------------------
+
+ Adnan Husain 
+
+ Pratik Narola (MNNIT, Allahabad)
+
+ Vidyadhari(AndhraPradesh)
+
+ Mohammed Anas(Bangalore)
  
- 
- Mehul Rawal (MNNIT, Allahabad)  mehul@mnnit.ac.in
+ Dhruvajit Ghosh 
+
+Mehul Rawal (MNNIT, Allahabad)  mehul@mnnit.ac.in
