@@ -6,7 +6,6 @@ This repository is to Kickstart Open Source and promote Hacktoberfest2019.
 Pl. add your names beneath this line.
  
  ---------------------------------------------------------------------------------
- 
 
 
  Adnan Husain 
@@ -24,3 +23,5 @@ Mehul Rawal (MNNIT, Allahabad)  mehul@mnnit.ac.in
 Mayur Samnani (Jodhpur)
 
 Prarthana Kandwal(Noida)
+
+Samaksh Tak(Udaipur)
