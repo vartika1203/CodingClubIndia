@@ -7,4 +7,10 @@ Pl. add your names beneath this line.
  
  ---------------------------------------------------------------------------------
 
-Mohammed Anas(Bangalore)
+ Adnan Husain 
+
+ Pratik Narola (MNNIT, Allahabad)
+
+ Vidyadhari(AndhraPradesh)
+
+ Mohammed Anas(Bangalore)
